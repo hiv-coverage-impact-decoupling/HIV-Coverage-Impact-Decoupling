@@ -1,0 +1,25 @@
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+Master_Code_Log*.txt
+
+publication/**/*.pdf
+publication/**/*.xlsx
+publication/**/*.csv
+publication/audit/*.txt
+publication/audit/*.json
+
+!**/.gitkeep
